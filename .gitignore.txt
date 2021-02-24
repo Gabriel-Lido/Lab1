@@ -1,0 +1,6 @@
+Lab1.dep
+Lab1.ewd
+Lab1.ewp
+Lab1.ewt
+Debug/
+settings/
